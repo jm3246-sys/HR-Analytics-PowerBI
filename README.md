@@ -1,4 +1,23 @@
 # 📊 HR Analytics Dashboard – Power BI
+## 🏷️ Project Badges
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-2563EB?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-0F766E?style=for-the-badge)
+![Employee Attrition](https://img.shields.io/badge/Employee-Attrition-DC2626?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-4F46E5?style=for-the-badge)
+![Workforce Analysis](https://img.shields.io/badge/Workforce-Analysis-0891B2?style=for-the-badge)
+![Employee Retention](https://img.shields.io/badge/Employee-Retention-15803D?style=for-the-badge)
+
+## 📊 Analysis Areas
+
+![Attrition Rate](https://img.shields.io/badge/Attrition-Rate-DC2626?style=flat-square)
+![Salary Analysis](https://img.shields.io/badge/Salary-Analysis-0F766E?style=flat-square)
+![Job Role Analysis](https://img.shields.io/badge/Job%20Role-Analysis-4F46E5?style=flat-square)
+![Department Analysis](https://img.shields.io/badge/Department-Analysis-0891B2?style=flat-square)
+![Overtime Analysis](https://img.shields.io/badge/Overtime-Analysis-D97706?style=flat-square)
+![Job Satisfaction](https://img.shields.io/badge/Job-Satisfaction-7C3AED?style=flat-square)
+![Workforce Trends](https://img.shields.io/badge/Workforce-Trends-15803D?style=flat-square)
 
 ## 📌 Project Overview
 This project analyzes employee data using Power BI to understand employee attrition, workforce trends, and factors influencing employee retention.
